@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+        <nick></nick>
+    </login>
+    <p>
+        <title>user-list demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+    <user-ext ADAPTERID="25b2c642dba7a53491ca03248">
+        <i>
+            <uid>xslxsl</uid>
+            <avatar>http://i.oxm1.cc/uploads/xslxsl/img/2a05k65fcTjj6svgagRv368A196y-1333.jpeg</avatar>
+            <img>http://i.oxm1.cc/uploads/xslxsl/img/2a05ksn8mTjj6s8yh6R961pA3gg2-750.jpeg</img>
+            <slogan>hssk </slogan>
+            <sex>M</sex>
+            <nick>xslxsl</nick>
+            <_id>5b3c72e28f0c532922cd1a1b</_id>
+            <_uid>xslxsl</_uid>
+        </i>
+        <i>
+            <_id>5b3ae204e823a7211a5859b1</_id>
+            <slogan>我们掌握着改变世界的力量</slogan>
+            <sex>M</sex>
+            <img>http://i.oxm1.cc/uploads/git/wurui/img/2a077b9s5Tjj55qbxnRg036Aa7c-667.jpeg</img>
+            <uid>git/wurui</uid>
+            <avatar>http://i.oxm1.cc/uploads/git/wurui/img/2a077b9mbTjj55qc3hRik20Aate-965.jpeg</avatar>
+            <nick>wurui</nick>
+        </i>
+    </user-ext>
+    </data>
+</root>

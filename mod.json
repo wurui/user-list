@@ -1,0 +1,9 @@
+{
+  "name": "user-list",
+  "apiDependencies": [
+  {
+    "name": "user-ext"
+  }
+]
+}
+
