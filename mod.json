@@ -2,7 +2,11 @@
   "name": "user-list",
   "apiDependencies": [
   {
-    "name": "user-ext"
+    "name": "user-ext",
+    "LINK":[
+    	{"name":"user_detail","title":"用户详情"}
+
+    ]
   }
 ]
 }

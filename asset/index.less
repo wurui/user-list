@@ -1,3 +1,58 @@
 .oxmod-user-list{
 /* CSS */
+	padding:5px;
+	color:#222;
+	a{
+		color:inherit;
+	}
+	.avatar{
+		width:60px;
+		height: 60px;;
+		//margin-top: -45px;
+		margin-left:-70px;
+		//margin-left: 15px;
+		border-radius: 50%;
+		display: inline-block;
+		background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-color: #fff;
+		text-align: center;
+		float: left;
+		vertical-align: top;
+
+	}
+	.user-list{
+		height: 60px;
+		padding-left: 70px;
+		
+		padding:5px 5px 5px 70px;
+		border-bottom: solid .5px #f8f8f8;
+		&:last-child{
+			border-bottom-style:none;
+		}
+	}
+	.nick{
+		line-height: 2;
+		font-size: 15px;
+	}
+	.slogan{
+		color:#666;
+		font-size: 12px;
+	}
+	.sex-F,.sex-M{
+		display: inline-block;
+		font-family: arial;
+		margin-left:5px;
+
+	}
+	.sex-M:before{
+		content: '\2642';
+		color:#2bf;
+
+	}
+	.sex-F:before{
+		content: '\2640';
+		color:#f77;
+	}
  }
